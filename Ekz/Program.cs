@@ -161,7 +161,7 @@ namespace Ekz
             }
         public class Trubes
         {
-
+            int tryba = 1;
         }
 
     }
